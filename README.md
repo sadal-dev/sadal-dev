@@ -8,8 +8,7 @@ sadal.dev is the software brand of Sharif H. Adal, a full-stack developer from C
 
 - **MessMate** — Meal, bazaar and expense accounting for shared bachelor messes. [Live](https://messmate.sadal.dev/) · [Code](https://github.com/AdalOnShow/MessMate-Turborepo)
 - **WorkNest** — Project and task collaboration with real-time chat. [Live](https://worknest.sadal.dev/) · [Code](https://github.com/AdalOnShow/WorkNest)
-- **Shikbol** — English vocabulary app for Bangladeshi learners. In development. · [Code](https://github.com/AdalOnShow/shikbol)
-
+  
 ## Links
 
 - Website: https://sadal.dev
